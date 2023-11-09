@@ -303,19 +303,7 @@ main .sobre {
     justify-content: center;
 }
 
-.my_services ul li {
-    cursor: pointer;
-    border-radius: 6px;
-    position: relative;
-    padding: 10px;
-    display: grid;
-    gap: 30px;
-    text-align: center;
-    max-width: 300px;
-    align-content: center;
-    height: 300px;
-    background-color: #222;
-}
+
 
 .my_services ul li i {
     font-size: 2.7rem;
